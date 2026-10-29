@@ -1,11 +1,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="stats-dark.svg">
-  <img alt="image-js: 19 repositories, 13 packages on npm, 104 million downloads in September 2026, 684 million in the last 12 months. GitHub organization created at EPFL by Luc Patiny in June 2015." src="stats-light.svg" width="100%">
+  <img alt="image-js: 20 repositories, 13 packages on npm, 104 million downloads in September 2026, 684 million in the last 12 months. GitHub organization created in June 2015 in the group of Luc Patiny at EPFL." src="stats-light.svg" width="100%">
 </picture>
 
-The **image-js** organization on GitHub was created at [EPFL](https://www.epfl.ch) by [Luc Patiny](https://github.com/lpatiny) in June 2015. It provides image processing and analysis in JavaScript, for the browser and Node.js, together with pure-JavaScript image decoders and encoders (PNG, TIFF, JPEG, BMP) and a library to read and write binary data.
+The **image-js** organization on GitHub was created in June 2015 in the group of [Luc Patiny](https://github.com/lpatiny) at [EPFL](https://www.epfl.ch). It provides image processing and analysis in JavaScript, for the browser and Node.js, together with pure-JavaScript image decoders and encoders (PNG, TIFF, JPEG, BMP) and a library to read and write binary data.
 
-It contains **19 public repositories** and **13 packages published on npm**, downloaded **104,160,033 times in September 2026** and **684,288,159 times in the last 12 months** (October 2025 to September 2026). Many of these packages are currently maintained by [Zakodium Sàrl](https://www.zakodium.com).
+It contains **20 public repositories** and **13 packages published on npm**, downloaded **104,160,033 times in September 2026** and **684,288,159 times in the last 12 months** (October 2025 to September 2026). Many of these packages are currently maintained by [Zakodium Sàrl](https://www.zakodium.com).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="downloads-dark.svg">
