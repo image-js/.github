@@ -1,0 +1,27 @@
+{
+  "month": "2026-09",
+  "months": ["2025-10","2025-11","2025-12","2026-01","2026-02","2026-03","2026-04","2026-05","2026-06","2026-07","2026-08","2026-09"],
+  "updated": "2026-10-30",
+  "createdAt": "2015-06-22T08:26:12Z",
+  "repositories": 20,
+  "archived": 1,
+  "stars": 1996,
+  "totalDownloads": 104160033,
+  "periodDownloads": 684288159,
+  "monthlyDownloads": [14251239,17557209,20551611,27621948,33651453,55107191,70359186,70569724,78541500,90829758,101087307,104160033],
+  "packages": [
+    {"name":"iobuffer","repository":"iobuffer","downloads":51674118,"periodDownloads":338339430,"monthly":[6796862,8504886,10020903,13535032,16482672,27108163,34604090,34957642,39297305,45195929,50161828,51674118]},
+    {"name":"fast-png","repository":"fast-png","downloads":51098550,"periodDownloads":332607972,"monthly":[6632444,8362108,9874024,13371600,16293251,26864121,34240051,34182094,37848989,44222404,49618336,51098550]},
+    {"name":"tiff","repository":"tiff","downloads":470628,"periodDownloads":4346555,"monthly":[253453,220464,219314,239227,282736,361467,473737,439579,462861,479271,443818,470628]},
+    {"name":"image-js","repository":"image-js","downloads":223445,"periodDownloads":2114114,"monthly":[122116,107718,99518,107625,140355,177722,235742,237372,224162,222042,216297,223445]},
+    {"name":"fast-bmp","repository":"fast-bmp","downloads":219289,"periodDownloads":2052392,"monthly":[119367,103692,97030,104534,129481,174311,234254,232983,217447,213893,206111,219289]},
+    {"name":"fast-jpeg","repository":"fast-jpeg","downloads":211392,"periodDownloads":2040814,"monthly":[118081,102577,96159,104058,128968,174610,237782,233212,217818,213220,202937,211392]},
+    {"name":"monotone-chain-convex-hull","repository":"monotone-chain-convex-hull","downloads":137278,"periodDownloads":1430286,"monthly":[104368,78714,73091,82145,98135,125667,171119,144216,142487,148182,124884,137278]},
+    {"name":"canny-edge-detector","repository":"canny-edge-detector","downloads":122222,"periodDownloads":1311023,"monthly":[100012,73717,68996,75474,93195,118100,158759,135526,125099,129400,110523,122222]},
+    {"name":"hog-features","repository":"hog","downloads":1338,"periodDownloads":25753,"monthly":[2560,1870,1308,1168,1570,1729,1888,4290,3553,3417,1062,1338]},
+    {"name":"ocr-tools","repository":"ocr-tools","downloads":898,"periodDownloads":10349,"monthly":[928,821,694,673,549,697,934,1378,996,1069,712,898]},
+    {"name":"mrz-detection","repository":"mrz-detection","downloads":637,"periodDownloads":7610,"monthly":[864,600,529,389,421,541,691,1099,564,627,648,637]},
+    {"name":"ij-test","repository":"test","downloads":220,"periodDownloads":1661,"monthly":[168,30,37,18,103,52,126,300,197,279,131,220]},
+    {"name":"stroke-width-transform","repository":"stroke-width-transform","downloads":18,"periodDownloads":200,"monthly":[16,12,8,5,17,11,13,33,22,25,20,18]}
+  ]
+}

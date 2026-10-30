@@ -35,15 +35,15 @@ It contains **20 public repositories** and **13 packages published on npm**, dow
 <a href="https://github.com/cheminfo"><img src="https://github.com/cheminfo.png?size=96" width="48" height="48" align="left" alt=""></a>
 <b><a href="https://github.com/cheminfo">cheminfo</a></b><br>
 Open-source tools for chemistry, in JavaScript<br>
-<sub>175 npm packages, 107 million downloads in the last 12 months</sub>
+<sub>176 npm packages, 107 million downloads in the last 12 months</sub>
 </td>
 <td width="50%">
 <a href="https://github.com/mljs"><img src="https://github.com/mljs.png?size=96" width="48" height="48" align="left" alt=""></a>
 <b><a href="https://github.com/mljs">ml.js</a></b><br>
 Machine learning and numerical analysis in JavaScript<br>
-<sub>107 npm packages, 431 million downloads in the last 12 months</sub>
+<sub>118 npm packages, 431 million downloads in the last 12 months</sub>
 </td>
 </tr>
 </table>
 
-<sub>Updated on 2026-10-29 from the GitHub and npm APIs. Repositories are the public ones of [image-js](https://github.com/image-js), forks excluded. Downloads are those reported by npm for whole calendar months.</sub>
+<sub>Updated on 2026-10-30 from the GitHub and npm APIs. Repositories are the public ones of [image-js](https://github.com/image-js), forks excluded. Downloads are those reported by npm for whole calendar months.</sub>
